@@ -1,0 +1,137 @@
+.mid_box{
+	
+	height: 850px;
+	width: 1000px;
+	min-width: 1000px;
+	margin: auto;
+	/*background: pink;*/
+}
+
+.mid_box1{
+	
+	width: 1000px;
+	height: 50px;
+	text-align: center;
+	
+}
+
+.mid_box1 h3 {
+	
+	  line-height: 60px;
+}
+.mid_box1 h3 a{
+	
+	color: black;
+	
+}
+/*-----------------------------------*/
+
+
+.mid_box2{
+	
+	width: 1000px;
+	height: 50px;
+	/*background: cyan;*/
+}
+
+.box2_count1{
+	
+	width: 400px;
+	height: 45px;
+	margin-left: 10px;
+	/*background: gray;*/
+	position: relative;
+	
+}
+
+.box2_count1 p:nth-child(1) {
+    position: absolute;
+    width: 140px;
+    font-size: 14px;
+    margin-left: 1px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.box2_count1 p:nth-child(2) {
+    font-size: 13px;
+    margin-left: 135px;
+    margin-top: 21px;
+    position: absolute;
+}
+.box2_count1 p:nth-child(2) a{
+	
+	color: #000000;
+}
+
+/*----------------------------------------*/
+.mid_box3{
+	
+	width: 500px;
+	height: 75px;
+	margin: auto;
+	margin-top: 20px;
+/*	background: burlywood;*/
+}
+.box3_mgs10{
+	width: 55px;
+	height: 55px;
+}
+.box3_mgs10 img {
+	width: 55px;
+    height: 55px;
+    margin-left: 15px;
+    margin-top: 8px;
+}
+.box3_mgs11{
+	
+	width: 70px;
+	height: 40px;	
+}
+.box3_mgs11 img {
+	
+	width: 70px;
+    margin-top: 14px;
+    margin-left: 6px;
+    height: 40px;
+}
+.mid_box3 ul{
+	
+	width: 500px;
+	height: 75px;
+	
+}
+.mid_box3 ul li{
+	
+	height: 75px;
+    width: 87px;
+    margin-left: 5px;
+    float: left;
+	background: url(../img/product_show/ico_none.gif) no-repeat;
+}
+.mid_box3 ul li:hover {
+	
+	background: url(../img/product_show/ico_bg.gif) no-repeat;
+}
+.mid_box3 li:nth-child(1){
+	width: 13px;
+	height: 43px;
+	margin-top: 15px;
+	background: url(../img/product_show/ico_left.gif) no-repeat;
+}
+
+.mid_box3 li:nth-child(7){
+	
+	width: 13px;
+	height: 43px;
+	margin-top: 15px;
+	background: url(../img/product_show/ico_right.gif) no-repeat;
+}
+/*---------------------------------------------*/
+.mid_box4{
+	
+	width: 600px;
+	height: 600px;
+	margin: auto;
+	background: url(../img/product_show/porshow.jpg) no-repeat;
+}
